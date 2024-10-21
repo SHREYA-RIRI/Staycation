@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: rgb(15, 14, 14);
+    margin: 0;
+    text-align: center;
+}
+.box-1{
+    padding: 20px;
+    width: 45%;
+    background-color: #fbefe0;
+    margin: 26em;
+    margin-top: 14em;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    word-break: 7px;
+
+}
